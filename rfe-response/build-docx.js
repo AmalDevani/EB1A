@@ -92,6 +92,11 @@ const EXHIBITS = [
   ['O', 'Evidence of payment of deferred compensation [IF ANY HAS BEEN PAID]', '[DATE]'],
   ['P', 'Employment agreement and any deferral addendum signed by the Beneficiary', '[DATE]'],
   ['Q', 'Declaration of Amal Devani', '—'],
+  ['R', 'Pay records from the periods immediately before the deferral began and after it ended', '[DATES]'],
+  ['S', '[STATE] corporate filing / annual report identifying the Beneficiary as CEO', '[DATE]'],
+  ['T', 'Corporate banking signature authority and officer authorization records', '[DATE]'],
+  ['U', 'Letter from Octet’s [CPA / BOOKKEEPER] confirming the accrued compensation entries', '—'],
+  ['V', 'Records of the payroll suspension and its reinstatement [IF APPLICABLE]', '[DATES]'],
 ];
 
 const body = [];
@@ -166,12 +171,29 @@ add(P('(Exhibits [J], [K] — financial statements showing the accrued compensat
 add(H('E.  Non-cash remuneration during the RFE period', 2));
 add(P('Octet provided, and paid the premiums for, **employer-sponsored health insurance** covering Mr. Devani continuously through the RFE period, under plan [PLAN / CARRIER NAME], at a company cost of $[AMOUNT] per month. (Exhibit [L] — enrollment confirmation and carrier invoices showing premiums paid by Octet for September, October, and November 2025.) [ADD ANY OTHER BENEFITS ACTUALLY PROVIDED: equity vesting under his [DATE] stock agreement, expense reimbursement, device or technology allowance, professional liability coverage.]'));
 
-add(H('F.  The specific records requested', 2));
-add(P('__[Select the option below that is accurate and delete the others.]__'));
-add(BULLET('__[If pay statements exist for the window:]__ Enclosed at Exhibit [M] are Mr. Devani’s payroll statements for each pay period from September 10, 2025 through November 10, 2025. Consistent with the Deferral Resolution, these statements reflect [$0 / reduced] cash disbursement while showing his continued active employment and the accrual of compensation owed.'));
-add(BULLET('__[If no pay statements were generated:]__ Because no cash wages were disbursed to Mr. Devani during September 10, 2025 through November 10, 2025 pursuant to the Deferral Resolution, no earnings statements were generated for those pay periods. In place of statements that do not exist, the Petitioner submits the payroll register and employee-status records from [PAYROLL PROVIDER] for that period (Exhibit [K]), the accrued-compensation entries from the company’s books (Exhibit [J]), and the contemporaneous work evidence described above.'));
-add(BULLET('__[If some cash was paid:]__ Enclosed at Exhibit [M] are pay statements reflecting the $[AMOUNT] in cash compensation actually disbursed to Mr. Devani during the RFE period, the balance having been deferred under the Deferral Resolution.'));
-add(P('The Petitioner also encloses **Form W-2 for tax year 2025** and **IRS Form 941 quarterly returns for Q3 and Q4 2025** (Exhibit [N]), and [IF APPLICABLE] **evidence of subsequent payment of deferred amounts** (Exhibit [O]).'));
+add(H('F.  The pay records requested do not exist for this period, and the reason is documented', 2));
+add(P('Because no cash wages were disbursed to Mr. Devani between September 10, 2025 and November 10, 2025, pursuant to the Deferral Resolution, **no earnings statements, leave-and-earnings statements, or pay stubs were generated for those pay periods.** The Petitioner states this plainly rather than submit records that do not exist. This fact is attested to under penalty of perjury in the declarations of [OFFICER / DIRECTOR NAME] (Exhibit [B]) and Mr. Devani (Exhibit [Q]).'));
+add(P('__[Select the payroll posture below that is accurate and delete the others.]__'));
+add(BULLET('__[If he remained enrolled with zero-dollar runs:]__ Mr. Devani remained an actively enrolled employee in Octet’s payroll system, [PAYROLL PROVIDER], throughout the RFE period. The enclosed payroll register and employee-status records (Exhibit [K]) show his active employment record and the zero-dollar disbursement for each pay period.'));
+add(BULLET('__[If enrolled but no payroll runs were processed:]__ Mr. Devani remained an actively enrolled employee of record in Octet’s payroll system, [PAYROLL PROVIDER], throughout the RFE period. Because no disbursement was made, no payroll run was processed for him during those pay periods. The enclosed employee-status records (Exhibit [K]) show his continuous active enrollment and the dates of his most recent payroll runs before and after the deferral.'));
+add(BULLET('__[If payroll was suspended entirely:]__ Octet suspended payroll processing [entirely / for its executive team] from [DATE] to [DATE] as part of the cash-conservation measures adopted by the Board. Exhibit [V] documents that suspension and its reinstatement on [DATE]. Mr. Devani’s employment continued throughout; only the payroll disbursement was suspended.'));
+add(P('Related tax records follow from the same fact and are enclosed so that the record is complete: **Form W-2 for tax year 2025** (Exhibit [N]) reports $[AMOUNT] in wages paid [/ no wages were reported for the deferral months because none were disbursed], and **IRS Forms 941 for Q3 and Q4 2025** (Exhibit [N]) reflect the company’s wage reporting for those quarters. [IF ANY DEFERRED AMOUNT HAS SINCE BEEN PAID: Exhibit [O] evidences payment of $[AMOUNT] of the deferred balance on [DATE], confirming that the accrued obligation was real and has been honored.]'));
+
+add(H('G.  Evidence submitted in place of the requested pay records', 2));
+add(P('Because the requested records do not exist, the Petitioner submits the following in their place, as the RFE expressly permits. Each item is contemporaneous with the RFE period and, with the exception of the declarations, was generated by a third party or in the ordinary course of the company’s business.'));
+add(P('__Records showing the employment relationship existed during the RFE period:__', { after: 100 }));
+add(NUM('**Employer-paid health insurance.** Enrollment confirmation and carrier invoices showing that Octet paid premiums for Mr. Devani’s coverage in September, October, and November 2025 (Exhibit [L]). Group coverage of this kind is available only to active employees, and the premiums are economic consideration conferred by the employer for his service.', 'subs'));
+add(NUM('**Payroll-platform employee record** showing continuous active enrollment (Exhibit [K]).', 'subs'));
+add(NUM('**Corporate filings and authority records** identifying Mr. Devani as Octet’s Chief Executive Officer during the period — [STATE] annual/biennial report filed [DATE], corporate banking signature authority, and [D&O POLICY / OTHER] (Exhibits [S], [T]).', 'subs'));
+add(P('__Records showing the compensation was earned and remains owed:__', { after: 100 }));
+add(NUM('The **Deferral Resolution** and Mr. Devani’s **employment agreement** (Exhibits [A], [P]).', 'subs'));
+add(NUM('**Accrued-compensation entries and financial statements** for the periods covering September–November 2025, with a confirming letter from Octet’s [CPA / BOOKKEEPER] (Exhibits [J], [U]).', 'subs'));
+add(P('__Records showing the services were actually performed:__', { after: 100 }));
+add(NUM('**Board minutes**, **executed financing documents**, **commercial agreements signed by Mr. Devani as CEO**, **dated investor correspondence**, and **third-party materials identifying him as Octet’s CEO** — all dated within the RFE period (Exhibits [C]–[I]).', 'subs'));
+add(P('__Records showing the pattern before and after the deferral:__', { after: 100 }));
+add(NUM('**Payroll and pay records from the periods immediately before the deferral began and after it ended** (Exhibit [R]), showing that Mr. Devani was paid a regular salary as CEO before the deferral [and has been paid again since [DATE]]. The deferral was a defined interruption in disbursement within a continuous employment relationship, not the absence of one.', 'subs'));
+add(P('__Sworn testimony:__', { after: 100 }));
+add(NUM('Declarations of [OFFICER / DIRECTOR NAME] (Exhibit [B]) and Mr. Devani (Exhibit [Q]).', 'subs'));
 
 // III
 add(H('III.  Legal Argument: Deferred Cash Compensation Does Not Affect Maintenance of O-1 Status', 1));
@@ -204,6 +226,9 @@ add(BULLET('**The employment relationship never ceased.** He remained an activel
 add(H('E.  Deferring founder cash compensation during a financing is ordinary and expected in this industry', 2));
 add(P('Octet is an early-stage venture-backed company. Preserving cash runway by deferring the chief executive’s salary — while the chief executive continues to work full-time and the obligation remains on the books — is a routine and prudent exercise of the Board’s fiduciary duty, not an abandonment of employment. Indeed, the deferral existed **because** Mr. Devani was working: the compensation accrued precisely because he continued to render services as CEO. A reading that treated deferral as a status violation would penalize the beneficiary for the very work the petition describes, and would find no support in the statute, the regulations, or USCIS guidance.'));
 
+add(H('F.  The absence of pay statements is a consequence of the deferral, not evidence that the employment lapsed', 2));
+add(P('A pay statement is a record generated by the act of disbursement. Where, as here, disbursement was deliberately deferred by action of the Board, no such record comes into existence. The absence of pay statements for September 10 – November 10, 2025 is therefore **fully explained by the documented corporate action** at Exhibit [A], and is not probative of whether Mr. Devani performed services for Octet during that period. The question the regulations pose — whether the beneficiary continued to work for the petitioner in the capacity specified in the petition, 8 C.F.R. §§ 274a.12(b)(13), 214.2(o)(8)(iii)(A)(1) — is answered by the contemporaneous evidence of the work itself, which is extensive and enclosed.'));
+
 // IV
 add(H('IV.  Response to the “Prior Approvals” Discussion', 1));
 add(P('The RFE notes that USCIS will not defer to a prior approval where there has been “a material change in circumstances or eligibility requirements.” The Petitioner respectfully submits that there has been **no material change** in Mr. Devani’s employment or eligibility: he holds the same position, with the same employer, performing the same duties, in furtherance of the same business activity described in the approved petition. The record submitted with the petition and supplemented here independently establishes his eligibility under 8 C.F.R. § 214.2(o)(3)(iii), without reliance on the prior approval, and the Petitioner acknowledges and accepts its burden of proof under INA § 291.'));
@@ -233,7 +258,7 @@ add(new Paragraph({
 add(P('[NAME], [TITLE]', { after: 0 }));
 add(P('Octet Inc.', { after: 0 }));
 add(P('[PHONE]  ·  [EMAIL]', { after: 260 }));
-add(P('**Enclosures:** RFE coversheet; original RFE notice; Exhibits A–Q'));
+add(P('**Enclosures:** RFE coversheet; original RFE notice; Exhibits A–V'));
 
 const doc = new Document({
   creator: 'Octet Inc.',
@@ -242,6 +267,7 @@ const doc = new Document({
   numbering: {
     config: [
       { reference: 'duties', levels: [{ level: 0, format: 'decimal', text: '%1.', alignment: AlignmentType.START, style: { paragraph: { indent: { left: convertInchesToTwip(0.5), hanging: convertInchesToTwip(0.25) } } } }] },
+      { reference: 'subs', levels: [{ level: 0, format: 'decimal', text: '%1.', alignment: AlignmentType.START, style: { paragraph: { indent: { left: convertInchesToTwip(0.5), hanging: convertInchesToTwip(0.25) } } } }] },
       { reference: 'elements', levels: [{ level: 0, format: 'decimal', text: '%1.', alignment: AlignmentType.START, style: { paragraph: { indent: { left: convertInchesToTwip(0.5), hanging: convertInchesToTwip(0.25) } } } }] },
     ],
   },
