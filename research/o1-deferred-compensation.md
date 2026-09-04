@@ -7,6 +7,12 @@ change takes effect.*
 
 ---
 
+**Companion memo:** `valid-o1-status-sources.md` — the sources defining valid O-1 and valid
+nonimmigrant status generally. Read together: that memo lists every element of maintaining
+status, and none of them is compensation.
+
+---
+
 ## 1. Bottom line
 
 There is **no requirement anywhere in the O-1 statute, regulations, or USCIS policy that an
