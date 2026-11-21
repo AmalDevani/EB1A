@@ -14,7 +14,7 @@ I, Amal Devani, declare as follows:
 
 3. Since that approval I have worked full time for Octet as its Founder and Chief Executive Officer, performing the duties described in the approved petition. I have held no other employment and performed no work for anyone other than Octet.
 
-4. My annual base salary remains $180,000. [Octet continues to defer cash payment of it under the Executive Compensation Deferral Agreement of April 24, 2025, and the deferred amounts remain owed to me in full. / Since [date], Octet has paid my salary through its payroll.]
+4. My annual base salary remains $180,000. Octet continues to defer cash payment of it under the Executive Compensation Deferral Agreement of April 24, 2025, which USCIS reviewed before approving the petition on October 13, 2026. The deferred amounts remain owed to me in full.
 
 5. On [December 1, 2026] Octet's Board of Directors adopted the 2027–2029 plan for the commercial launch and scale-up of the Grapevine platform and extended my appointment as Chief Executive Officer through December 13, 2029. I intend to lead that work full time for the whole of that period.
 

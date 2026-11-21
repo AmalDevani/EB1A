@@ -49,7 +49,12 @@ This is a different undertaking from the one Mr. Devani has led to date. The wor
   - He designed the system the plan takes to market. No one else in the company understands its regulatory architecture or its technology at the level the launch requires.
   - The merchant and restaurant relationships are his. He also leads all financing.
 
-The Board has extended his appointment as Chief Executive Officer for the full period of the plan, on the same terms. His salary remains $180,000 a year [, with the deferral agreement of April 24, 2025 remaining in effect / now paid through payroll from [date]].
+The Board has extended his appointment as Chief Executive Officer for the full period of the plan, on the same terms. These documents govern his employment:
+– Action by Unanimous Written Consent of the Board, August 8, 2019, electing Mr. Devani Chief Executive Officer and President and authorising the Chief Executive Officer to sign agreements in the Company's name (Exhibit [ ]).
+– My letter of November 30, 2022, offering Mr. Devani employment as Chief Executive Officer at an annual base salary of $180,000, submitted with the approved 2022 petition (Exhibit [ ]).
+– Executive Compensation Deferral Agreement and Board Resolution (unanimous written consent), both dated April 24, 2025 (Exhibits [ ] and [ ]). Under them, Octet defers cash payment of Mr. Devani's salary until a financing of at least $1,000,000 closes. USCIS reviewed both before approving Petition IOE8795688197 on October 13, 2026. Both remain in effect, and the deferred amounts remain owed to Mr. Devani in full.
+– Action by Unanimous Written Consent of the Board, [December 1, 2026], adopting the 2027–2029 plan and extending Mr. Devani's appointment through December 13, 2029 (Exhibit [ ]).
+– Confirmation of employment terms, [December 1, 2026], signed by me for Octet and countersigned by Mr. Devani (Exhibit [ ]).
 
 **Nothing about his employment has changed**
 

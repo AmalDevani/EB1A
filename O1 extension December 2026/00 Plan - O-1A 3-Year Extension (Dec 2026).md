@@ -72,7 +72,7 @@ What we need (one paragraph in the brief, plus 1–2 pages of evidence):
 2. One paragraph in Amal's declaration: he resumed work as CEO after Oct 13 and has held no other employment.
 3. One or two documents showing that work, e.g., an agreement signed as CEO since mid-October, or a recent payroll record if one exists.
 
-**Pay position (decide before drafting).** Keep the stated terms. If salary is still deferred, that is the approved situation and not a change. Resuming payroll is also fine. **Do not reduce the stated salary** without asking counsel, because that is arguably a material change.
+**Pay position: settled.** USCIS reviewed the deferral in the RFE and approved the petition with it in place, so it is not a material change. Danny's letter cites the Aug 8, 2019 CEO election, the Nov 30, 2022 offer, and the Apr 24, 2025 Deferral Agreement and Board resolution, and all of them go in as exhibits. Do not reduce the stated salary without asking counsel.
 
 **Signatory.** Consider having **Danny O'Farrell sign the I-129 and the petitioner letter**.
 
@@ -104,13 +104,13 @@ Meet at least 3 of the 8 criteria in 8 CFR 214.2(o)(3)(iii)(B). The RFE response
 0. **Cover letter + Petitioner's brief.** Same voice and format as the RFE Response Letter: short numbered sections, exhibits cited inline, mapping table at the end.
    - §1 Request and no material change; deference to the Oct 13, 2026 approval *(drafted: see 01 Brief draft)*
    - §2 The new event: the 3-year commercial launch & scale-up, with the itinerary; alternative request for ≥ 1 year
-   - §3 Status since Oct 13, 2026 (one paragraph)
-   - §4 Eligibility by criterion (backstop, adapted from RFE §3)
-   - §5 Conclusion
+   - §3 Eligibility by criterion (backstop, adapted from RFE §3)
+   - §4 Conclusion
+   - (Status since Oct 13 is one sentence in §1.)
 1. **Forms:** I-129 + O & P Classifications Supplement; I-907 (premium); fees (**confirm current amounts on uscis.gov**); G-1145; G-28 if counsel appears.
 2. **Exhibit Section 1:** Prior approvals and status (I-797A Oct 2026 and Jan 2023; I-94; passport; visa)
 3. **Exhibit Section 2:** The new event (Board resolution; itinerary; employment terms; plan and budget; third-party commitments; Danny letter)
-4. **Exhibit Section 3:** Status since Oct 13, 2026 (declaration; 1–2 documents)
+4. **Exhibit Section 3:** Status and employment documents (I-797A, I-94, declaration; Aug 2019 CEO consent; Nov 2022 offer; Apr 2025 Deferral Agreement and Board resolution)
 5. **Exhibit Section 4:** Eligibility (reorganised RFE Section 3 plus new 2026 evidence)
 6. **Exhibit Section 5:** Advisory opinion (Hazlehurst 2022, reused)
 
@@ -140,7 +140,7 @@ Meet at least 3 of the 8 criteria in 8 CFR 214.2(o)(3)(iii)(B). The RFE response
 ## 10. Questions to settle
 
 1. Has Amal worked for Octet since Oct 13, 2026? Has any payroll run?
-2. Will Octet pay salary in the new term, keep deferring, or restate it?
+2. ~~Pay~~ Settled: the deferral continues, and the governing documents go in as exhibits.
 3. What concrete milestones, partners, and financing targets define the 2027–2029 project?
 4. Who signs for the petitioner: Danny or Amal?
 5. Which partners will give a commitment letter by Dec 1?

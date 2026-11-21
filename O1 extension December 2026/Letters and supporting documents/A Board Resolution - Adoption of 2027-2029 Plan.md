@@ -11,7 +11,7 @@ The undersigned, being all of the members of the Board of Directors (the "Board"
 
 ### Recitals
 
-A. Amal Devani has served as the Company's Chief Executive Officer since September 2022. The Company employs him in that position under O-1A classification, most recently under Petition IOE8795688197, approved by U.S. Citizenship and Immigration Services ("USCIS") on October 13, 2026, with validity through December 13, 2026.
+A. Amal Devani has served as the Company's Chief Executive Officer since the Board elected him Chief Executive Officer and President by unanimous written consent on August 8, 2019, and has led the Company in that office since it began raising capital in September 2022. The Company employs him in that position under O-1A classification, most recently under Petition IOE8795688197, approved by U.S. Citizenship and Immigration Services ("USCIS") on October 13, 2026, with validity through December 13, 2026.
 
 B. Between 2023 and 2026, under Mr. Devani's leadership, the Company completed the development phase of its business:
 - obtained New York State Liquor Authority Warehouse Permit No. 0577-24-03109;
@@ -33,7 +33,7 @@ C. The Board has reviewed a plan, presented by Mr. Devani, for the commercial la
 - leading all financing; and
 - reporting to the Board.
 
-**3. Compensation.** RESOLVED, that Mr. Devani's annual base salary shall remain $180,000. The Executive Compensation Deferral Agreement dated April 24, 2025, approved by the Board that day, remains in full force and effect. [ALTERNATIVE, if payroll has resumed: …and that the Company shall pay that salary through its regular payroll with effect from [date], any amounts previously deferred remaining payable in accordance with that Agreement.]
+**3. Compensation.** RESOLVED, that Mr. Devani's annual base salary shall remain $180,000. The Executive Compensation Deferral Agreement dated April 24, 2025, approved by the Board that day, remains in full force and effect. USCIS reviewed that Agreement and resolution before approving Petition IOE8795688197 on October 13, 2026. All amounts deferred under the Agreement remain owed to Mr. Devani in full.
 
 **4. Immigration filings.** RESOLVED, that the Company is authorised to file with USCIS a Form I-129 petition, with premium processing, to extend Mr. Devani's O-1A classification and stay for the period December 14, 2026 through December 13, 2029, together with all related forms, fees and supporting documents. Danny O'Farrell, Director, is authorised to sign the petition and supporting letters on the Company's behalf.
 

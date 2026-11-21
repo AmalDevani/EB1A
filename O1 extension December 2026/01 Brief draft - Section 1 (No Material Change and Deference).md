@@ -21,7 +21,7 @@ Dear Officer:
 Octet Inc. ("Octet" or "Petitioner") respectfully petitions to extend the O-1A stay of its Founder and Chief Executive Officer, Amal Devani. This letter addresses:
 1. The request, and the absence of any material change since USCIS's approval of October 13, 2026.
 2. The new business project for which Octet requests a three-year period.
-3. Mr. Devani's status since that approval.
+3. Mr. Devani's continuing status, addressed in Section 1.
 4. His eligibility under the regulatory criteria, which Petitioner sets out in full.
 
 An Exhibit List follows.
@@ -42,10 +42,10 @@ An Exhibit List follows.
 | Duties | Directs product and technical build, commercial agreements, regulatory licensing, and financing; reports to the Board | Same |
 | Worksite | 1115 Broadway, Floor 11, New York, NY 10010 | Same |
 | Basis | Full time | Full time |
-| Annual base salary | $180,000; cash disbursement deferred under the Executive Compensation Deferral Agreement of April 24, 2025 | [Same / $180,000, now paid through payroll from [date]] |
+| Annual base salary | $180,000; cash disbursement deferred under the Executive Compensation Deferral Agreement of April 24, 2025 | Same; Agreement and Board resolution remain in effect (Exhibits [ ]) |
 | Classification | O-1A, extraordinary ability in business | O-1A, extraordinary ability in business |
 
-The terms and conditions of Mr. Devani's employment are therefore unchanged within the meaning of 8 C.F.R. § 214.2(o)(2)(iv)(D). [If salary is now paid: Octet's resumption of cash payment of the approved salary performs the approved terms; it does not change them.]
+The terms and conditions of Mr. Devani's employment are therefore unchanged within the meaning of 8 C.F.R. § 214.2(o)(2)(iv)(D). USCIS considered the deferral specifically in its Request for Evidence and approved the petition with it in place. Since that approval Mr. Devani has remained in O-1A status, working full time for Octet in the approved position and for no one else (Exhibits [I-797A, I-94, declaration]).
 
 The new business project described at Section 2 changes none of these terms. Mr. Devani will hold the same office, perform the same duties and draw the same salary. What is new is the phase of Octet's business that his work will serve. The Policy Manual recognises exactly this distinction: it treats continuing "in a different phase or trial for the same research" as a new event. The same work in a new phase is a new event or activity for the purposes of the validity period. It is not a change in the terms of employment.
 
@@ -56,12 +56,12 @@ The new business project described at Section 2 changes none of these terms. Mr.
 
 Petitioner respectfully asks USCIS to defer to its determination of October 13, 2026 that Mr. Devani qualifies for O-1A classification. If USCIS relies on a specific change or new information, Petitioner respectfully asks USCIS to identify it so that Petitioner may respond.
 
-Petitioner understands that DHS has proposed to remove 8 C.F.R. § 214.1(c)(5) (Notice of Proposed Rulemaking, 91 Fed. Reg. [page], October 14, 2026). As of filing that proposal is not final, and the regulation remains in effect. So that USCIS may decide this petition on any footing without delay, and without waiving the request for deference, Petitioner resubmits at Section 4 the evidence of eligibility on which USCIS approved the petition in October 2026.
+Petitioner understands that DHS has proposed to remove 8 C.F.R. § 214.1(c)(5) (Notice of Proposed Rulemaking, 91 Fed. Reg. [page], October 14, 2026). As of filing that proposal is not final, and the regulation remains in effect. So that USCIS may decide this petition on any footing without delay, and without waiving the request for deference, Petitioner resubmits at Section 3 the evidence of eligibility on which USCIS approved the petition in October 2026.
 
 ---
 
 ### Notes for review (delete before filing)
 - **Form I-129, Part 2, basis for classification.** "Continuation of previously approved employment without change with the same employer" (2.b) matches the no-material-change position. Confirm with Rinku that 2.b is still correct when we request 3 years for a new event.
-- **Salary row.** Fill in once the pay position is decided. Do not state a reduced salary without counsel's view.
+- **Exhibit numbers.** Fill in once the exhibit list is set.
 - **Fed. Reg. page cite.** Pull it from the published NPRM (FR Doc. 2026-20941).
 - **Tone.** Firm and direct, like the RFE letter. The October approval is the strongest fact we have, so it comes early.

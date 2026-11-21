@@ -24,7 +24,7 @@ Further to the Board's action of [December 1, 2026], this letter confirms the te
    - Managing regulatory filings and licensing.
    - Leading all financing.
 4. **Basis and location.** Full time, at 1115 Broadway, Floor 11, New York, NY 10010, with business travel as required.
-5. **Compensation.** Annual base salary of $180,000. [The Executive Compensation Deferral Agreement of April 24, 2025 remains in effect, and amounts deferred under it remain owed to you in full / The Company will pay your salary through payroll from [date]; amounts previously deferred remain payable under the Agreement of April 24, 2025.] You remain eligible for equity as the Board may determine.
+5. **Compensation.** Annual base salary of $180,000. The Executive Compensation Deferral Agreement of April 24, 2025, approved by the Board that day, remains in effect, and amounts deferred under it remain owed to you in full. You remain eligible for equity as the Board may determine.
 6. **Exclusivity.** You will not undertake other employment during the term.
 
 All other terms of your employment continue unchanged.
