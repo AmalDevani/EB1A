@@ -1,6 +1,6 @@
 # O-1A Extension, December 2026: Plan for a 3-Year Request
 
-**Petitioner:** Octet Inc. · **Beneficiary:** Amal Devani · **Status:** DRAFT FOR DISCUSSION · Prepared November 21, 2026
+**Petitioner:** Octet Inc. · **Beneficiary:** Amal Devani · **Status:** DRAFT FOR DISCUSSION · Prepared November 21, 2026 · Rev. 2 (no-material-change position; letters and maintenance of status trimmed)
 
 ---
 
@@ -23,7 +23,7 @@ USCIS must **receive** the I-129 **before Dec 13, 2026**. That keeps Amal in a p
 
 ## 2. Strategy in one paragraph
 
-Present this as a **new business project**, not a continuation. Octet has finished its 2023–2026 build phase: licence, compliant marketplace, merchant partners, and a platform rebuild during 2026. Amal now leads a defined three-year commercial launch and scale-up of the rebuilt Grapevine platform (Dec 2026 – Dec 2029). Back that framing with a dated itinerary, a Board resolution adopting the plan, and third-party commitments. The regulations define "event" to include a "business project" or "engagement" (8 CFR 214.2(o)(3)(ii)). The Policy Manual's own example of a new event is a "different phase" of the same work. Separately, **re-prove eligibility in full and do not rely on deference**. Most of that evidence already exists in the RFE package.
+Present this as a **new business project**, not a continuation. Octet has finished its 2023–2026 build phase: licence, compliant marketplace, merchant partners, and a platform rebuild during 2026. Amal now leads a defined three-year commercial launch and scale-up of the rebuilt Grapevine platform (Dec 2026 – Dec 2029). Back that framing with a dated itinerary, a Board resolution adopting the plan, and third-party commitments. The regulations define "event" to include a "business project" or "engagement" (8 CFR 214.2(o)(3)(ii)). The Policy Manual's own example of a new event is a "different phase" of the same work. **Lead with no material change and deference.** The terms of employment are the ones USCIS approved on Oct 13, 2026, after a full review of the merits: same employer, role, duties, salary (with the deferral disclosed), worksite and classification. Keep the two ideas separate. The *employment* is unchanged, so there is no material change and no amended petition. The *business project* it serves is a new phase. As a backstop, resubmit the eligibility evidence the October approval rested on, so the case stands even if the officer declines to defer.
 
 **Fallback built into the request:** if USCIS won't treat the project as a new event, ask it to approve at least the 1-year increment. That way a short grant doesn't become a denial.
 
@@ -47,7 +47,7 @@ This section matters most. It is also the main new work compared with the RFE.
 3. **Employment agreement or offer letter for the 3-year term.** It states duties, salary, and the deferral mechanics.
 4. **3-year operating plan and budget.** A short summary, not a full deck.
 5. **Third-party corroboration of the plan.** Merchant and restaurant agreements or LOIs, investor letters of intent, and the Ben Aneff / US Wine Trade Alliance partnership.
-6. **Danny O'Farrell letter, updated.** Adapt v8. Shift its emphasis from "what he achieved" to "the new phase and why it needs Amal for 3 years."
+6. **Danny O'Farrell letter v9 (the essential letter).** Adapt v8. Shift its emphasis from "what he achieved" to "the new phase and why it needs Amal for 3 years."
 
 ---
 
@@ -55,23 +55,26 @@ This section matters most. It is also the main new work compared with the RFE.
 
 | RFE issue | How we pre-empt it this time |
 |---|---|
-| Refused deference, citing an unidentified "material change" | Argue for deference anyway, and point out that the Oct 13, 2026 approval was a fresh merits review without deference. Then prove every criterion as if no prior approval existed. |
-| Asked for pay records (Sept–Nov 2025) | Address maintenance of status from Oct 13, 2026 onward proactively (see §5). Do not wait to be asked. |
+| Refused deference, citing an unidentified "material change" | State no material change, with a table comparing the approved terms with today's. Ask for deference to an approval that is only weeks old and was decided on the full merits. Resubmit the evidence as a backstop. |
+| Asked for pay records (Sept–Nov 2025) | That period is settled by the Oct 13 approval, so **do not re-argue it**. Cover only Oct 13, 2026 to filing, briefly (see §5). |
 | "Arts" vs "business" confusion | State O-1A, business, on the first page and in the forms. |
 | Lawyer comments (F N Rahman) | Explain what the page-number column means. Don't include the Uber employment agreement twice (once under 3.1(a), once under 3.2). Use a fully executed copy if one exists. Strip comment bubbles from PDFs. Remove stray "Exhibit 8/18" cover pages. Cross-reference CNBC Africa clearly or drop it. |
-| Post-filing letters labelled "corroborative" | Everything is pre-filing this time. Collect new letters dated before Dec 4. |
+| Post-filing letters labelled "corroborative" | Aneff (Mar 2026) and Veuger's supplemental letter now pre-date the filing and count in full. Any new letters are dated before Dec 4. |
 
 ---
 
-## 5. Maintenance of status: points we must decide before drafting
+## 5. Maintenance of status: only since Oct 13, 2026
 
-1. **Since Oct 13, 2026: did Amal return to work?** The I-797 restored work authorization through Dec 13, 2026. We need evidence of work from Oct 13 onward.
-2. **Salary and payroll. This is the biggest open risk.** The petition states $180,000. If salary is still 100% deferred, USCIS may again ask for pay records. Options:
-   - (a) Resume real payroll at some level from Oct/Nov 2026. This is the strongest option.
-   - (b) Keep deferring, and disclose it fully on the I-129 and in the brief with the Agreement and Board resolution (the RFE response showed this works).
-   - (c) Restate compensation for the new term. **Ask counsel** whether this counts as a material change in terms.
-3. **Aug 2026 – Oct 13, 2026 non-work gap.** Explain it in one line: work stopped when the 240-day period ended, and he stayed in authorized stay while the petition was pending. The unlawful-presence memo already covers the reasoning.
-4. **Signatory.** Consider having **Danny O'Farrell sign the I-129 and the petitioner letter** for Octet. That avoids the look of the beneficiary petitioning for himself.
+8 CFR 214.1(c)(4) bars an extension only if the beneficiary failed to maintain the status *last accorded*. The Dec 2025 – Oct 13, 2026 period, including the deferral and the Aug–Oct non-work gap, was what the RFE asked about. The approval covered it, so **don't re-argue it.**
+
+What we need (one paragraph in the brief, plus 1–2 pages of evidence):
+1. I-797A (Oct 2026), I-94 and passport.
+2. One paragraph in Amal's declaration: he resumed work as CEO after Oct 13 and has held no other employment.
+3. One or two documents showing that work, e.g., an agreement signed as CEO since mid-October, or a recent payroll record if one exists.
+
+**Pay position (decide before drafting).** Keep the stated terms. If salary is still deferred, that is the approved situation and not a change. Resuming payroll is also fine. **Do not reduce the stated salary** without asking counsel, because that is arguably a material change.
+
+**Signatory.** Consider having **Danny O'Farrell sign the I-129 and the petitioner letter**.
 
 ---
 
@@ -83,29 +86,33 @@ Meet at least 3 of the 8 criteria in 8 CFR 214.2(o)(3)(iii)(B). The RFE response
 |---|---|---|
 | (B)(7) Critical role, distinguished org | Uber Kenya: 3.1(a)–(c). Octet: 1.1, 1.5, 1.8, 1.10(a)–(b) | 2026 platform rebuild; new agreements signed as CEO after Oct 13, 2026; NYSLA permit renewal (current permit runs to Jan 31, 2027, so start the renewal now) |
 | (B)(8) High remuneration | 3.2 (Uber KSh 10M; PayScale / Glassdoor / SalaryExplorer) | Optional: current US market comparison for founder-CEO pay (if paying) |
-| (B)(5) Original contributions of major significance | 3.3(a)–(f): Veuger (+ supplemental), Olund, Bacow, McPhate, Aneff; white paper; pitch decks | New 2026 letters: Aneff / McPhate on live use of the rebuilt platform; one fresh independent expert; usage or revenue metrics from the rebuild |
+| (B)(5) Original contributions of major significance | 3.3(a)–(f): Veuger (+ supplemental), Olund, Bacow, McPhate, Aneff; white paper; pitch decks | No new expert letters needed; resubmit as accepted. Optional: usage or revenue metrics from the 2026 rebuild |
 | (B)(3) Published material | 3.5 (FT, Citizen Digital, Capital FM, East African; SimilarWeb data) | Any 2025–26 press on Grapevine / Octet. Refresh the SimilarWeb data to 2026 if practical. |
 | Possible new criterion | — | Check for any 2026 judging, panels, or speaking (B)(4), or authorship (B)(6) that would add a fifth criterion |
 
-**Advisory opinion (consultation).** The Hazlehurst letter is from Nov 2022. Get a **fresh consultation letter** from a peer or management-level expert before filing. Also confirm with counsel what the extension filing requires.
+**Advisory opinion (consultation).** The Nov 2022 Hazlehurst letter went in with the RFE response and the petition was approved. **Reuse it** unless Rinku says the extension needs a fresh one.
+
+**New letters, the real list:**
+1. **Danny O'Farrell v9 (essential).** The new 2027–2029 phase, Board adoption, Amal as CEO for the full period, the terms, and why Amal is needed.
+2. **1–3 partner commitment letters (essential for 3 years).** One page each, on letterhead: what they will do with Grapevine from 2027, over several years, ideally with volumes or terms. Candidates: Ben Aneff / Tribeca, Crush Wine & Spirits, one restaurant, or an investor's letter of intent. Signed agreements beat letters.
+3. **Amal's declaration** (short). Covers status since Oct 13 and the pay position.
 
 ---
 
 ## 7. Proposed package structure
 
 0. **Cover letter + Petitioner's brief.** Same voice and format as the RFE Response Letter: short numbered sections, exhibits cited inline, mapping table at the end.
-   - §1 Request: O-1A extension for a new event, Dec 14, 2026 – Dec 13, 2029, under 8 CFR 214.2(o)(12)(ii); alternative request for ≥ 1 year
-   - §2 The new event: the 3-year commercial launch & scale-up, with the itinerary
-   - §3 Deference, and the October 2026 de novo approval
-   - §4 Maintenance of status
-   - §5 Eligibility by criterion (adapted from RFE §3)
-   - §6 Conclusion
+   - §1 Request and no material change; deference to the Oct 13, 2026 approval *(drafted: see 01 Brief draft)*
+   - §2 The new event: the 3-year commercial launch & scale-up, with the itinerary; alternative request for ≥ 1 year
+   - §3 Status since Oct 13, 2026 (one paragraph)
+   - §4 Eligibility by criterion (backstop, adapted from RFE §3)
+   - §5 Conclusion
 1. **Forms:** I-129 + O & P Classifications Supplement; I-907 (premium); fees (**confirm current amounts on uscis.gov**); G-1145; G-28 if counsel appears.
 2. **Exhibit Section 1:** Prior approvals and status (I-797A Oct 2026 and Jan 2023; I-94; passport; visa)
 3. **Exhibit Section 2:** The new event (Board resolution; itinerary; employment terms; plan and budget; third-party commitments; Danny letter)
-4. **Exhibit Section 3:** Maintenance of status (payroll or deferral docs; evidence of work since Oct 13, 2026; declaration)
+4. **Exhibit Section 3:** Status since Oct 13, 2026 (declaration; 1–2 documents)
 5. **Exhibit Section 4:** Eligibility (reorganised RFE Section 3 plus new 2026 evidence)
-6. **Exhibit Section 5:** Advisory opinion (new)
+6. **Exhibit Section 5:** Advisory opinion (Hazlehurst 2022, reused)
 
 ---
 
@@ -113,7 +120,7 @@ Meet at least 3 of the 8 criteria in 8 CFR 214.2(o)(3)(iii)(B). The RFE response
 
 | Date | Task | Owner |
 |---|---|---|
-| Nov 21–23 | Agree strategy and the new-event framing. Send plan to Rinku Ray for review. Request new letters (Aneff, McPhate, expert, advisory opinion). | Amal |
+| Nov 21–23 | Agree strategy and the new-event framing. Send plan to Rinku Ray for review. Request 1–3 partner commitment letters. | Amal |
 | Nov 23–25 | Draft Board resolution, itinerary, employment terms, Danny letter v9 | Claude + Amal |
 | Nov 24–27 | Draft brief v1 and exhibit list v1. Rebuild exhibit PDFs from the "o1 RFE for printing" set. | Claude + Amal |
 | Nov 30 | Chase letters. Lock financial and payroll position. | Amal |
@@ -136,7 +143,7 @@ Meet at least 3 of the 8 criteria in 8 CFR 214.2(o)(3)(iii)(B). The RFE response
 2. Will Octet pay salary in the new term, keep deferring, or restate it?
 3. What concrete milestones, partners, and financing targets define the 2027–2029 project?
 4. Who signs for the petitioner: Danny or Amal?
-5. Which new letters can we realistically get by Dec 1, and from whom?
+5. Which partners will give a commitment letter by Dec 1?
 6. Will Rinku Ray review, or appear as counsel (G-28)?
 7. Any 2025–26 press, judging, or speaking we can add?
 8. Has the NYSLA permit renewal (expires Jan 31, 2027) been filed?
